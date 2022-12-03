@@ -2044,7 +2044,7 @@ do -- Example UI
         Tab:AddButton("AdminScript", function()
             loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
             end) 
-        Tab:AddButton("AdminScript", function()
+        Tab:AddButton("ClickTp", function()
             loadstring(game:HttpGet(" https://raw.githubusercontent.com/Zellosu/Clicktotp/main/clicktotp", true))()
             end)   
         Tab:AddButton("InfJump", function()
